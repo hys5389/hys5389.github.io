@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hys5389.github.io</id>
+    <title>Gridea</title>
+    <updated>2020-10-27T12:06:06.249Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hys5389.github.io"/>
+    <link rel="self" href="https://hys5389.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://hys5389.github.io/images/avatar.png</logo>
+    <icon>https://hys5389.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[MyApi程序]]></title>
+        <id>https://hys5389.github.io/post/myapi-cheng-xu/</id>
+        <link href="https://hys5389.github.io/post/myapi-cheng-xu/">
+        </link>
+        <updated>2020-10-26T14:41:38.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="架构选型">架构选型</h3>
+<p>Electron + Typescript + vue + Less + Tailwind CSS</p>
+]]></content>
+    </entry>
+</feed>
